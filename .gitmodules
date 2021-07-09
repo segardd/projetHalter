@@ -1,0 +1,9 @@
+[submodule "projetHalterAPI"]
+	path = haltProjetAPI
+	url = git@github.com:segardd/projetHalterAPI.git 
+	branch = master
+[submodule "projetHalterFront"]
+	path = haltProjet
+	url = git@github.com:segardd/projetHalterFront.git 
+	branch = master
+
